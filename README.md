@@ -1,5 +1,10 @@
 # Redintek Dashboard
-
+## project preview
+ ![Dashboard](src/assets/page_screenshots/page1.png)
+ ![Introduction](src/assets/page_screenshots/page2.png)
+ ![Services](src/assets/page_screenshots/page3.png)
+ ![CREATIVE SOLUTIONS AND RESULTS THAT GROW BRANDS](src/assets/page_screenshots/page4.png)
+ ![Our Partnership with Microsoft](src/assets/page_screenshots/page5.png)
 ## Project Overview
 
 Redintek is a comprehensive IT solutions platform designed to provide innovative and effective services in web development, digital marketing, mobile app development, media, and cybersecurity. Our dashboard, built with a modern tech stack, offers an intuitive and user-friendly interface that allows clients to explore our services and get in touch with us easily.
