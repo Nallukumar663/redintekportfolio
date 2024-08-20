@@ -60,8 +60,7 @@ To run this project locally, you'll need to have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/redintek-dashboard.git
-   cd redintek-dashboard
+   git clone https://github.com/Nallukumar663/redintekportfolio.git
    ```
 
 2. Install dependencies:
@@ -78,7 +77,6 @@ To run this project locally, you'll need to have the following installed:
    yarn dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000` to see the dashboard in action.
 
 ## Deployment
 
